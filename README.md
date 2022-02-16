@@ -1,4 +1,4 @@
-# **Clone Netflix - Aula da Digital Innovation One com o especialista Felipe Aguiar** :woman: :books:
+# **Recriando Netflix - Aula da Digital Innovation One com o especialista Felipe Aguiar** :woman: :books:
 
 Olá! Bem vindo ao meu repositório para o desafio de recriar a interface do principal site de streaming mundial :wave:
 
